@@ -7,7 +7,7 @@
 </head>
 <body>
 	<!-- title -->
-	<h1 class="system_title">Communication Logs Tracking System</h1>
+	<h1 class="system_title">ADAAA Communication Logs Tracking System</h1>
 
 	<!-- Form -->
 	<div class="login_form">
