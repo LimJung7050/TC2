@@ -6,9 +6,10 @@
 	<link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
 </head>
 <body>
-
+	<!-- title -->
 	<h1 class="system_title">Communication Logs Tracking System</h1>
 
+	<!-- Form -->
 	<div class="login_form">
 		<form action="login.php" method="post">
 			<h2>LOGIN</h2>
@@ -30,3 +31,5 @@
 	</div>
 </body>
 </html>
+
+<!-- End of file -->
